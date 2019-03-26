@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 9828b86cfc2f309469e86a29881f0f23
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Docking
+    100004: Left_Door
+    100006: Lines
+    100008: Right_door
+    100010: Small_Seat
+    100012: Stairs
+    100014: train
+    100016: //RootNode
+    100018: Windows
+    100020: Docking_001
+    100022: Wagon_docking_back
+    100024: Wheel_Stand_001
+    400000: Cube
+    400002: Docking
+    400004: Left_Door
+    400006: Lines
+    400008: Right_door
+    400010: Small_Seat
+    400012: Stairs
+    400014: train
+    400016: //RootNode
+    400018: Windows
+    400020: Docking_001
+    400022: Wagon_docking_back
+    400024: Wheel_Stand_001
+    2100000: None__the_train_body_tex_png
+    2100002: None__the_train_body_tex_png_0
+    2100004: unnamed
+    2100006: Material__the_train_body_tex_png
+    2100008: Material__Train_Main_png_001
+    2100010: Material__Train_Main_png_000
+    2100012: None__Train_Main_png_002
+    2100014: Material__Train_Main_png_002
+    2300000: Cube
+    2300002: Docking
+    2300004: Left_Door
+    2300006: Lines
+    2300008: Right_door
+    2300010: Small_Seat
+    2300012: Stairs
+    2300014: train
+    2300016: Windows
+    2300018: Docking_001
+    2300020: Wagon_docking_back
+    2300022: Wheel_Stand_001
+    2300024: //RootNode
+    3300000: Cube
+    3300002: Docking
+    3300004: Left_Door
+    3300006: Lines
+    3300008: Right_door
+    3300010: Small_Seat
+    3300012: Stairs
+    3300014: train
+    3300016: Windows
+    3300018: Docking_001
+    3300020: Wagon_docking_back
+    3300022: Wheel_Stand_001
+    3300024: //RootNode
+    4300000: Small_Seat
+    4300002: Cube
+    4300004: Left_Door
+    4300006: Right_door
+    4300008: Lines
+    4300010: Docking
+    4300012: Stairs
+    4300014: Windows
+    4300016: train
+    4300018: Docking_001
+    4300020: Wheel_Stand_001
+    4300022: Wagon_docking_back
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__Train_Main_png_001
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__the_train_body_tex_png
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__the_train_body_tex_png
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__the_train_body_tex_png_0
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 9c576ec90d730a84fa94096d8c40d65f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cabin_Panel
+    100002: chassis
+    100004: Docking
+    100006: Left_Door
+    100008: Lines
+    100010: Lines_Front
+    100012: Right_door
+    100014: Seat
+    100016: Small_Seat
+    100018: Stairs
+    100020: train
+    100022: //RootNode
+    100024: Wagon_docking
+    100026: Windows
+    100028: Mirror
+    100030: Front_Down
+    100032: Wheel
+    100034: Wheel_001
+    100036: Wheel_002
+    100038: Wheel_003
+    100040: Wheel_Stand
+    100042: Cylinder
+    100044: Cabin_Door_right
+    100046: Cabin_Door_left
+    100048: Corridor_Door
+    100050: Door_Inside
+    100052: Handler
+    100054: Small_Seat_Left
+    100056: Small_Seat_Right
+    100058: Front_Light
+    400000: Cabin_Panel
+    400002: chassis
+    400004: Docking
+    400006: Left_Door
+    400008: Lines
+    400010: Lines_Front
+    400012: Right_door
+    400014: Seat
+    400016: Small_Seat
+    400018: Stairs
+    400020: train
+    400022: //RootNode
+    400024: Wagon_docking
+    400026: Windows
+    400028: Mirror
+    400030: Front_Down
+    400032: Wheel
+    400034: Wheel_001
+    400036: Wheel_002
+    400038: Wheel_003
+    400040: Wheel_Stand
+    400042: Cylinder
+    400044: Cabin_Door_right
+    400046: Cabin_Door_left
+    400048: Corridor_Door
+    400050: Door_Inside
+    400052: Handler
+    400054: Small_Seat_Left
+    400056: Small_Seat_Right
+    400058: Front_Light
+    2100000: None__the_train_body_tex_png_0
+    2100002: g3m1__Train_Main_png
+    2100004: g1m0_001__train_panel_2_png
+    2100006: g1m1__train_panel_2_png
+    2100008: g1m2__train_panel_2_png
+    2100010: None__Train_Main_png
+    2100012: None__the_train_body_tex_png
+    2100014: unnamed
+    2100016: Material__the_train_body_tex_png
+    2100018: Material__Train_Main_png_001
+    2100020: None__Train_Main_png_001
+    2100022: g7m0
+    2100024: Material
+    2100026: g3m1__Train_Main_png_001
+    2300000: Cabin_Panel
+    2300002: chassis
+    2300004: Docking
+    2300006: Left_Door
+    2300008: Lines
+    2300010: Lines_Front
+    2300012: Right_door
+    2300014: Seat
+    2300016: Small_Seat
+    2300018: Stairs
+    2300020: train
+    2300022: Wagon_docking
+    2300024: Windows
+    2300026: Mirror
+    2300028: Front_Down
+    2300030: Wheel
+    2300032: Wheel_001
+    2300034: Wheel_002
+    2300036: Wheel_003
+    2300038: Wheel_Stand
+    2300040: Cylinder
+    2300042: Cabin_Door_right
+    2300044: Cabin_Door_left
+    2300046: Corridor_Door
+    2300048: Door_Inside
+    2300050: Handler
+    2300052: Small_Seat_Left
+    2300054: Small_Seat_Right
+    2300056: Front_Light
+    2300058: //RootNode
+    3300000: Cabin_Panel
+    3300002: chassis
+    3300004: Docking
+    3300006: Left_Door
+    3300008: Lines
+    3300010: Lines_Front
+    3300012: Right_door
+    3300014: Seat
+    3300016: Small_Seat
+    3300018: Stairs
+    3300020: train
+    3300022: Wagon_docking
+    3300024: Windows
+    3300026: Mirror
+    3300028: Front_Down
+    3300030: Wheel
+    3300032: Wheel_001
+    3300034: Wheel_002
+    3300036: Wheel_003
+    3300038: Wheel_Stand
+    3300040: Cylinder
+    3300042: Cabin_Door_right
+    3300044: Cabin_Door_left
+    3300046: Corridor_Door
+    3300048: Door_Inside
+    3300050: Handler
+    3300052: Small_Seat_Left
+    3300054: Small_Seat_Right
+    3300056: Front_Light
+    3300058: //RootNode
+    4300000: Lines_Front
+    4300002: chassis
+    4300004: Cabin_Panel
+    4300006: Wagon_docking
+    4300008: Small_Seat
+    4300010: Seat
+    4300012: Left_Door
+    4300014: Right_door
+    4300016: Lines
+    4300018: Docking
+    4300020: Stairs
+    4300022: Windows
+    4300024: train
+    4300026: Mirror
+    4300028: Front_Down
+    4300030: Wheel_003
+    4300032: Wheel_002
+    4300034: Wheel_001
+    4300036: Wheel_Stand
+    4300038: Wheel
+    4300040: Cylinder
+    4300042: Cabin_Door_right
+    4300044: Cabin_Door_left
+    4300046: Corridor_Door
+    4300048: Handler
+    4300050: Door_Inside
+    4300052: Small_Seat_Right
+    4300054: Small_Seat_Left
+    4300056: Front_Light
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__the_train_body_tex_png
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Train_Main_png
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__the_train_body_tex_png
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__the_train_body_tex_png_0
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1m0_001__train_panel_2_png
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1m1__train_panel_2_png
+    second: {fileID: 2100000, guid: c824c6af29956aa4a9783a51c02424b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1m2__train_panel_2_png
+    second: {fileID: 2100000, guid: c824c6af29956aa4a9783a51c02424b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g3m1__Train_Main_png
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g7m0
+    second: {fileID: 2100000, guid: 45ee7b7b0c87bd9489786f1943f5b79c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 73476918f2f66a145bc707fbf4030920, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,67 +1,11 @@
 fileFormatVersion: 2
-guid: 876cd36c42fba7c4fb3565b6a13ad07d
+guid: 445b80ea60bd809429447da10c0bf12d
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: Cabin_Door_left_Cube_002
-    100002: Cube
-    100004: //RootNode
-    100006: Armature
-    100008: Bone
-    100010: Bone_001
-    100012: Head
-    100014: Left_Arm_Down
-    100016: Left_Arm_Fingers
-    100018: Left_Arm_Up
-    100020: Left_Leg_Down
-    100022: Left_Leg_Foot
-    100024: Left_Leg_Up
-    100026: Neck
-    100028: Right_Arm_Down
-    100030: Right_Arm_Fingers
-    100032: Right_Arm_Up
-    100034: Right_Leg_Down
-    100036: Right_Leg_Foot
-    100038: Right_Leg_Up
-    100040: Armature_001
-    400000: Cabin_Door_left_Cube_002
-    400002: Cube
-    400004: //RootNode
-    400006: Armature
-    400008: Bone
-    400010: Bone_001
-    400012: Head
-    400014: Left_Arm_Down
-    400016: Left_Arm_Fingers
-    400018: Left_Arm_Up
-    400020: Left_Leg_Down
-    400022: Left_Leg_Foot
-    400024: Left_Leg_Up
-    400026: Neck
-    400028: Right_Arm_Down
-    400030: Right_Arm_Fingers
-    400032: Right_Arm_Up
-    400034: Right_Leg_Down
-    400036: Right_Leg_Foot
-    400038: Right_Leg_Up
-    400040: Armature_001
-    2100000: unnamed
-    2100002: None_003_NONE_001
-    2300000: Cabin_Door_left_Cube_002
-    2300002: Cube
-    2300004: //RootNode
-    3300000: Cabin_Door_left_Cube_002
-    3300002: Cube
-    3300004: //RootNode
-    4300000: Cube
-    4300002: Cabin_Door_left_Cube_002
-    7400000: Default Take
-    7400002: Seat
-    7400004: Seat_001
-    7400006: Mob_Seat
-    9500000: //RootNode
-    11100000: //RootNode
-    13700000: Cube
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: 1989289236423521904
+    second: Default Take
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -93,36 +37,9 @@ ModelImporter:
     - serializedVersion: 16
       name: Default Take
       takeName: Default Take
+      internalID: 1989289236423521904
       firstFrame: 0
-      lastFrame: 239
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 1
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
-      name: Mob_Seat
-      takeName: Mob_Seat
-      firstFrame: 0
-      lastFrame: 239
+      lastFrame: 249
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -146,12 +63,13 @@ ModelImporter:
       maskType: 3
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 2
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -159,10 +77,13 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
@@ -174,10 +95,14 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -187,13 +112,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 2
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
